@@ -1,6 +1,6 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../assets/img/cabeza1.jpg",
+  "../assets/img/frankestein/cabeza1.png",
   "../assets/img/cabeza2.jpg",
   "../assets/img/cabeza3.png",
 ];
