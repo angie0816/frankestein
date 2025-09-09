@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Asimovian&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
 
 
 html {
@@ -10,20 +10,24 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: #415d43;
+  background-image: url("https://media.itsnicethat.com/images/59f768467fa44c6ad6000e4b.width-1440_1TR1fVIYBFgZ9sVS.jpg");
 }
 
 ::selection {
   background-color: #30cac073;
   color: #130808;
 }
-
+h1 {
+  background-color: rgb(193, 120, 199);
+}
 h2 {
   font-size: 1.1em;
   
 }
 
 a, a:active, a:visited, a:hover {
-  color: rgb(193, 120, 199);
+  color: #501537;
   cursor: pointer;
   text-decoration: none;
 }
@@ -37,7 +41,7 @@ a, a:active, a:visited, a:hover {
   margin-top: 1em;
   margin-bottom: 0;
   margin-bottom: 0.5em;
-  font-family: "Asimovian", sans-serif;
+  font-family: "Eater", serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -60,8 +64,9 @@ a, a:active, a:visited, a:hover {
 }
 
 #boton {
-  font-size: 0.9em;
+  font-family: "Eater", serif;
+  font-size: 1.0em;
   background-color:  rgb(193, 120, 199);
-  color: white;
+  color: #501537;
   cursor: pointer;
 }
