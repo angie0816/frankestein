@@ -1,18 +1,27 @@
 // Listas de imágenes
 const listaCabezas = [
   "../assets/img/frankestein/cabeza1.png",
-  "../assets/img/cabeza2.jpg",
-  "../assets/img/cabeza3.png",
+  "../assets/img/frankestein/cabeza2.png",
+  "../assets/img/frankestein/cabeza3.png",
+  "../assets/img/frankestein/cabeza4.png",
+  "../assets/img/frankestein/cabeza5.png",
+  "../assets/img/frankestein/cabeza6.png",
 ];
 const listaTroncos = [
- "../assets/img/tronco1.jpg",
-  "../assets/img/tronco2.jpg",
-  "../assets/img/tronco3.jpg",
+ "../assets/img/frankestein/tronco1.png",
+  "../assets/img/frankestein/tronco2.png",
+  "../assets/img/frankestein/tronco3.png",
+  "../assets/img/frankestein/tronco4.png",
+  "../assets/img/frankestein/tronco5.png",
+  "../assets/img/frankestein/tronco6.png",
 ];
 const listaPatas = [
-  "../assets/img/patas1.jpg",
-  "../assets/img/patas2.jpg",
-  "../assets/img/patas3.png",
+  "../assets/img/frankestein/patas1.png",
+  "../assets/img/frankestein/patas2.png",
+  "../assets/img/frankestein/patas3.png",
+  "../assets/img/frankestein/patas4.png",
+  "../assets/img/frankestein/patas5.png",
+  "../assets/img/frankestein/patas6.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
