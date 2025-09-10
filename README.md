@@ -1,2 +1,3 @@
 # base-bestiario
-Base para crear aleatoriamente un ser compuesto de varias partes (collage)
+Como crear tu propio mini Frankestein
+Unde el boton mezclar para crear un Frankestein con partes de diferentes personas para generar un amigo Frankestein para ti
