@@ -1,27 +1,27 @@
 // Listas de imágenes
 const listaCabezas = [
-  "../frankestein/assets/img/frankestein/cabeza1.png",
-  "../frankestein/assets/img/frankestein/cabeza2.png",
-  "../frankestein/assets/img/frankestein/cabeza3.png",
-  "../frankestein/assets/img/frankestein/cabeza4.png",
-  "../frankestein/assets/img/frankestein/cabeza5.png",
-  "../frankestein/assets/img/frankestein/cabeza6.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza1.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza2.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza3.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza4.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza5.png",
+  "../frankesteinpp/assets/img/frankestein/cabeza6.png",
 ];
 const listaTroncos = [
- "../frankestein/assets/img/frankestein/tronco1.png",
-  "../frankestein/assets/img/frankestein/tronco2.png",
-  "../frankestein/assets/img/frankestein/tronco3.png",
-  "../frankestein/assets/img/frankestein/tronco4.png",
-  "../frankestein/assets/img/frankestein/tronco5.png",
-  "../frankestein/assets/img/frankestein/tronco6.png",
+ "../frankesteinpp/assets/img/frankestein/tronco1.png",
+  "../frankesteinpp/assets/img/frankestein/tronco2.png",
+  "../frankesteinpp/assets/img/frankestein/tronco3.png",
+  "../frankesteinpp/assets/img/frankestein/tronco4.png",
+  "../frankesteinpp/assets/img/frankestein/tronco5.png",
+  "../frankesteinpp/assets/img/frankestein/tronco6.png",
 ];
 const listaPatas = [
-  "../frankestein/assets/img/frankestein/patas1.png",
-  "../frankestein/assets/img/frankestein/patas2.png",
-  "../frankestein/assets/img/frankestein/patas3.png",
-  "../frankestein/assets/img/frankestein/patas4.png",
-  "../frankestein/assets/img/frankestein/patas5.png",
-  "../frankestein/assets/img/frankestein/patas6.png",
+  "../frankesteinpp/assets/img/frankestein/patas1.png",
+  "../frankesteinpp/assets/img/frankestein/patas2.png",
+  "../frankesteinpp/assets/img/frankestein/patas3.png",
+  "../frankesteinpp/assets/img/frankestein/patas4.png",
+  "../frankesteinpp/assets/img/frankestein/patas5.png",
+  "../frankesteinpp/assets/img/frankestein/patas6.png",
 ];
 
 // Obtenemos los contenedores de las imágenes del HTML usando los IDs
